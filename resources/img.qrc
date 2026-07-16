@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>starsky.jpg</file>
+        <file>runner_icon.ico</file>
+    </qresource>
+</RCC>
